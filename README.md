@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1> <h3 align="center">A passionate Data Analyst from India</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohansinghee&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohansinghee" alt="trophies" /></a> </p> <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+
 🔭 Currently working on: Data Insights Dashboard
 
 🌱 Learning: Python, SQL, Data Visualization
@@ -20,27 +21,25 @@
 🎓 Education : Jaipur Engineering College and Research Center
                   Bachelor of Technology – Electrical Engineering (2022-2025)
 
-                Shri Bhawani Niketan Polytechnic College
-                    Diploma – Electrical Engineering (2022)
+  Shri Bhawani Niketan Polytechnic College
+    Diploma – Electrical Engineering (2022)
 
 Dronacharya International School
-Secondary Examination, CBSE (2019)
+  Secondary Examination, CBSE (2019)
 
-🏆 Certifications
-Danish Pvt. Ltd.
-Certificate of Internship (Aug 2023 – Sep 2023)
+🏆 Certifications : Danish Pvt. Ltd.
+                      Certificate of Internship (Aug 2023 – Sep 2023)
 
 Anshika Enterprises
-Certificate of Internship (Oct 2022 – Nov 2022)
+  Certificate of Internship (Oct 2022 – Nov 2022)
 
 Vision World Tech Pvt. Ltd.
-Certificate of Internship (Jul 2022 – Oct 2022)
+  Certificate of Internship (Jul 2022 – Oct 2022)
 
 Auto Tech Expert Group
-Certificate of Internship (Jul 2021 – Aug 2021)
+  Certificate of Internship (Jul 2021 – Aug 2021)
 
-📊 Projects
-Sales & Profit Analysis Dashboard (Power BI)
+📊 Projects : Sales & Profit Analysis Dashboard (Power BI)
 
 Description: Developed a dashboard to analyze sales trends, product performance, and customer segments.
 Outcome: Enhanced decision-making with improved sales insights.
