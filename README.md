@@ -1,49 +1,80 @@
-<h1 align="center">Hi 👋, I'm Rohan Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushpanwarfst&label=Profile%20views&color=0e75b6&style=flat" alt="piyushpanwarfst" /> </p>
+<h1 align="center">Hi 👋, I'm Rohan Singh</h1> <h3 align="center">A passionate Data Analyst from India</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohansinghee&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohansinghee" alt="trophies" /></a> </p> <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
+🔭 Currently working on: Data Insights Dashboard
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushpanwarfst" alt="piyushpanwarfst" /></a> </p>
+🌱 Learning: Python, SQL, Data Visualization
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+👯 Looking to collaborate on: Data Analytics Community
 
-- 🔭 I’m currently working on [NotesMaker App](https://github.com/PiyushPanwarFST/Notes-Maker/tree/main/src)
+👨‍💻 My projects: Portfolio
 
-- 🌱 I’m currently learning *React.js , Node.js*
+💬 Ask me about: Python, SQL, Data Analysis, Data Visualization, Machine Learning
 
-- 👯 I’m looking to collaborate on [TechieSpot Community](https://github.com/PiyushPanwarFST/TechiSpot)
+📫 Reach out: rohansinghee03@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://github.com/PiyushPanwarFST/TechiSpot](https://github.com/PiyushPanwarFST/TechiSpot)
+📄 My resume: View Resume
 
-- 💬 Ask me about *HTML, CSS, Javascript, React.js, Recoil, DSA in Java*
+⚡ Fun fact: I love uncovering insights from data and turning numbers into stories!
 
-- 📫 How to reach me *piyush2002panwar@gmail.com*
+🎯 Objective
+To secure a Data Analyst role where I can leverage my skills in data visualization, statistical analysis, and business intelligence tools like Power BI and Excel to transform complex data into actionable insights that drive business growth.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Haf2KLG-rnrnd3Qw88b-dqfi_yCus0ay/view?usp=sharing](https://drive.google.com/file/d/1Haf2KLG-rnrnd3Qw88b-dqfi_yCus0ay/view?usp=sharing)
+🎓 Education
+Jaipur Engineering College and Research Center
+Bachelor of Technology – Electrical Engineering (2022-2025)
 
-- ⚡ Fun fact *I am hardworking*
+Shri Bhawani Niketan Polytechnic College
+Diploma – Electrical Engineering (2022)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Dronacharya International School
+Secondary Examination, CBSE (2019)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyush panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush panwar" height="30" width="40" /></a>
-<a href="https://medium.com/@piyushpanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@piyushpanwar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmq8ckce8lpposaiof8cbxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmq8ckce8lpposaiof8cbxw" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/panwar25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="panwar25" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/piyush2002panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyush2002panwar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/panwar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="panwar2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/piyush12341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyush12341" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/piyush200z3hw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="piyush200z3hw" height="30" width="40" /></a>
-</p>
+🏆 Certifications
+Danish Pvt. Ltd.
+Certificate of Internship (Aug 2023 – Sep 2023)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Anshika Enterprises
+Certificate of Internship (Oct 2022 – Nov 2022)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushpanwarfst&show_icons=true&locale=en&layout=compact" alt="piyushpanwarfst" /></p>
+Vision World Tech Pvt. Ltd.
+Certificate of Internship (Jul 2022 – Oct 2022)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushpanwarfst&show_icons=true&locale=en" alt="piyushpanwarfst" /></p>
+Auto Tech Expert Group
+Certificate of Internship (Jul 2021 – Aug 2021)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpanwarfst&" alt="piyushpanwarfst" /></p>
+📊 Projects
+Sales & Profit Analysis Dashboard (Power BI)
+
+Description: Developed a dashboard to analyze sales trends, product performance, and customer segments.
+Outcome: Enhanced decision-making with improved sales insights.
+Financial Dashboard (Power BI)
+
+Description: Created a financial dashboard to track revenue and expenses with real-time data.
+Outcome: Reduced report generation time by 40%.
+Amazon Inventory & Sales Dashboard (MS Excel)
+
+Description: Built a dashboard for tracking inventory and sales using pivot tables and automation.
+Outcome: Improved inventory tracking and reduced stockouts by 15%.
+Coffee Wala Sales Dashboard (MS Excel)
+
+Description: Designed an interactive sales dashboard for a local coffee shop, featuring sales trends, top-selling products, and automation through formulas and macros.
+Outcome: Identified sales patterns and increased store efficiency by 15%.
+Other Projects Related to Electrical Field:
+
+Direction and Speed Control of DC Motor (Potentiometer, Transistor, Interlocking & Holding Circuit with relay)
+Arduino-Based Bluetooth Car (Arduino, Driver, Bluetooth Module, Hopper Motors)
+Smart Stick for Visually Impaired (Sensor, Buzzer, Instrumentation)
+Li-Fi Based Data Transfer (Li-Fi Modules, Optical Communication, Embedded Systems)
+🛠️ Skills
+Technical Skills:
+
+MS Excel: Expertise in data analysis, pivot tables, advanced formulas, and automation.
+Power BI: Skilled in creating interactive dashboards and data visualizations.
+Soft Skills:
+
+Problem Solving: Ability to analyze data and develop actionable insights.
+Communication: Skilled at simplifying complex data insights and presenting them clearly to non-technical stakeholders.
+🌐 Connect with me:
+<p align="center"> <a href="https://linkedin.com/in/yourlinkedinprofile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://medium.com/@yourmediumprofile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/yourchannelid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> <a href="https://www.kaggle.com/yourprofile" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="kaggle" height="30" width="40" /></a> </p>
+🧰 Languages and Tools:
+<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a> </p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansinghee&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p> <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohansinghee&show_icons=true&locale=en" alt="github-stats" /></p> <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohansinghee&" alt="streak-stats" /></p>
