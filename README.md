@@ -6,7 +6,7 @@
 
 👯 Looking to collaborate on: Data Analytics Community
 
-👨‍💻 My projects: Portfolio
+👨‍💻 My projects :  
 
 💬 Ask me about: Python, SQL, Data Analysis, Data Visualization, Machine Learning
 
@@ -72,5 +72,3 @@ Problem Solving: Ability to analyze data and develop actionable insights.
 Communication: Skilled at simplifying complex data insights and presenting them clearly to non-technical stakeholders.
 🌐 Connect with me:
 <p align="center"> <a href="https://linkedin.com/in/yourlinkedinprofile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://medium.com/@yourmediumprofile" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a> <a href="https://www.youtube.com/channel/yourchannelid" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> <a href="https://www.kaggle.com/yourprofile" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="kaggle" height="30" width="40" /></a> </p>
-🧰 Languages and Tools:
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40"/> </a> </p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansinghee&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p> <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rohansinghee&show_icons=true&locale=en" alt="github-stats" /></p> <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohansinghee&" alt="streak-stats" /></p>
