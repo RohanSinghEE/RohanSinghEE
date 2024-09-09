@@ -14,7 +14,7 @@
   
   https://www.linkedin.com/posts/rohan-singh-ee_datavisualization-excel-dashboarddesign-activity-7228907833717604352-Weih?utm_source=share&utm_medium=member_android
 
-💬 Ask me about : Python, SQL, Data Analysis, Data Visualization, Machine Learning
+💬 Ask me about : Python, SQL, Data Analysis, Data Visualization, MS Excel, Power BI
 
 📫 Reach out : rohansinghee03@gmail.com
 
