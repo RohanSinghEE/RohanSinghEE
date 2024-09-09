@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1> <h3 align="center">A passionate Data Analyst from India</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohansinghee&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohansinghee" alt="trophies" /></a> </p> <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 🔭 Currently working on: Data Insights Dashboard
 
@@ -16,15 +15,13 @@
 
 ⚡ Fun fact: I love uncovering insights from data and turning numbers into stories!
 
-🎯 Objective
-To secure a Data Analyst role where I can leverage my skills in data visualization, statistical analysis, and business intelligence tools like Power BI and Excel to transform complex data into actionable insights that drive business growth.
+🎯 Objective : To secure a Data Analyst role where I can leverage my skills in data visualization, statistical analysis, and business intelligence tools like Power BI and Excel to transform complex data into actionable insights that drive business growth.
 
-🎓 Education
-Jaipur Engineering College and Research Center
-Bachelor of Technology – Electrical Engineering (2022-2025)
+🎓 Education : Jaipur Engineering College and Research Center
+                  Bachelor of Technology – Electrical Engineering (2022-2025)
 
-Shri Bhawani Niketan Polytechnic College
-Diploma – Electrical Engineering (2022)
+                Shri Bhawani Niketan Polytechnic College
+                    Diploma – Electrical Engineering (2022)
 
 Dronacharya International School
 Secondary Examination, CBSE (2019)
