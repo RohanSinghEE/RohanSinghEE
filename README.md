@@ -7,9 +7,12 @@
 👯 Looking to collaborate on : Data Analytics Community
 
 👨‍💻 My projects :  https://www.linkedin.com/posts/rohan-singh-ee_powerbiproject-keyfeatures-skillsgained-activity-7238533240653811712-vszE?utm_source=share&utm_medium=member_android 
-                  https://www.linkedin.com/posts/rohan-singh-ee_powerbi-chartabrgraph-kpi-activity-7236779048276815872-c_KT?utm_source=share&utm_medium=member_android
-                  https://www.linkedin.com/posts/rohan-singh-ee_newprojectunveiled-interactiveexceldashboard-activity-7232776102492966913-oT9D?utm_source=share&utm_medium=member_android
-                  https://www.linkedin.com/posts/rohan-singh-ee_datavisualization-excel-dashboarddesign-activity-7228907833717604352-Weih?utm_source=share&utm_medium=member_android
+  
+  https://www.linkedin.com/posts/rohan-singh-ee_powerbi-chartabrgraph-kpi-activity-7236779048276815872-c_KT?utm_source=share&utm_medium=member_android
+  
+  https://www.linkedin.com/posts/rohan-singh-ee_newprojectunveiled-interactiveexceldashboard-activity-7232776102492966913-oT9D?utm_source=share&utm_medium=member_android
+  
+  https://www.linkedin.com/posts/rohan-singh-ee_datavisualization-excel-dashboarddesign-activity-7228907833717604352-Weih?utm_source=share&utm_medium=member_android
 
 💬 Ask me about : Python, SQL, Data Analysis, Data Visualization, Machine Learning
 
